@@ -5,6 +5,6 @@
         <attribute name="descriptionDish" optional="YES" attributeType="String"/>
         <attribute name="image" optional="YES" attributeType="String"/>
         <attribute name="price" optional="YES" attributeType="String"/>
-        <attribute name="tittle" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
     </entity>
 </model>

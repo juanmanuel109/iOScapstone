@@ -11,7 +11,7 @@
 		ADCFD2CB2C28C5AD00B95255 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADCFD2CA2C28C5AD00B95255 /* Assets.xcassets */; };
 		ADCFD2CE2C28C5AD00B95255 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADCFD2CD2C28C5AD00B95255 /* Preview Assets.xcassets */; };
 		ADCFD2D02C28C5AD00B95255 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCFD2CF2C28C5AD00B95255 /* Persistence.swift */; };
-		ADCFD2D32C28C5AD00B95255 /* ExampleDatabase.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = ADCFD2D12C28C5AD00B95255 /* ExampleDatabase.xcdatamodeld */; };
+		ADCFD2D32C28C5AD00B95255 /* LittleLemon.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = ADCFD2D12C28C5AD00B95255 /* LittleLemon.xcdatamodeld */; };
 		ADCFD2DE2C28CB4200B95255 /* FetchedObjects.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCFD2DD2C28CB4200B95255 /* FetchedObjects.swift */; };
 		ADCFD2E42C28CD9800B95255 /* Styles.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCFD2E32C28CD9800B95255 /* Styles.swift */; };
 		ADCFD2E62C28CDEC00B95255 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCFD2E52C28CDEC00B95255 /* MenuItem.swift */; };
@@ -106,7 +106,7 @@
 			children = (
 				ADCFD2DD2C28CB4200B95255 /* FetchedObjects.swift */,
 				ADCFD2CF2C28C5AD00B95255 /* Persistence.swift */,
-				ADCFD2D12C28C5AD00B95255 /* ExampleDatabase.xcdatamodeld */,
+				ADCFD2D12C28C5AD00B95255 /* LittleLemon.xcdatamodeld */,
 			);
 			path = CoreData;
 			sourceTree = "<group>";
@@ -218,7 +218,7 @@
 				ADCFD2E62C28CDEC00B95255 /* MenuItem.swift in Sources */,
 				ADCFD2D02C28C5AD00B95255 /* Persistence.swift in Sources */,
 				ADCFD2E82C28CDFB00B95255 /* MenuList.swift in Sources */,
-				ADCFD2D32C28C5AD00B95255 /* ExampleDatabase.xcdatamodeld in Sources */,
+				ADCFD2D32C28C5AD00B95255 /* LittleLemon.xcdatamodeld in Sources */,
 				ADCFD2E42C28CD9800B95255 /* Styles.swift in Sources */,
 				ADCFD2FC2C28D00100B95255 /* ViewModel.swift in Sources */,
 				ADCFD2DE2C28CB4200B95255 /* FetchedObjects.swift in Sources */,
@@ -436,13 +436,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		ADCFD2D12C28C5AD00B95255 /* ExampleDatabase.xcdatamodeld */ = {
+		ADCFD2D12C28C5AD00B95255 /* LittleLemon.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
 				ADCFD2D22C28C5AD00B95255 /* LittleLemon.xcdatamodel */,
 			);
 			currentVersion = ADCFD2D22C28C5AD00B95255 /* LittleLemon.xcdatamodel */;
-			path = ExampleDatabase.xcdatamodeld;
+			path = LittleLemon.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
