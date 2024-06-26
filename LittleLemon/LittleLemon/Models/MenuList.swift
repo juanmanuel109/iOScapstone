@@ -43,8 +43,4 @@ struct MenuList: Codable {
           dataTask.resume()
         }
     }
-    
-    
-    
-    
-}
+
