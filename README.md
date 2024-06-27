@@ -30,3 +30,12 @@ Para ejecutar la aplicación localmente en tu entorno de desarrollo:
 
 ¡Explora el código y disfruta construyendo tu propia versión del proyecto!
 
+<link rel="stylesheet" href="style.css">
+
+<button class="xcode-button">
+  <span class="xcode-icon">
+    <img src="https://your-icon-image-url" alt="Xcode icon">
+  </span>
+  <span class="xcode-text">Xcode</span>
+</button>
+
