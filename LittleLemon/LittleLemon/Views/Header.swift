@@ -15,7 +15,19 @@ struct Header: View {
             VStack {
                 ZStack {
                     Image("Logo")
-//                   falta Hstack
+                    HStack {
+                        Spacer()
+                        if isLoggedIn {
+                            NavigationLink(destination: UserProfile()) {
+                                Image("profile-image-placeholder")
+                                    .resizable()
+                                    .aspectRatio( contentMode: .fit)
+                                    .frame(maxHeight: 50)
+                                    .clipShape(Circle())
+                                    .padding(.trailing)
+                            }
+                        }
+                    }
                 }
             }
         }
