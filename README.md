@@ -1,4 +1,4 @@
-# iOS Capstone Project: Restaurant Menu App
+# iOS Capstone Project: Little Lemon Menu App 
 
 ## 📱 Proyecto Final de iOS Capstone
 
