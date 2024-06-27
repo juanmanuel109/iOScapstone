@@ -25,7 +25,7 @@ struct Onboarding: View {
         NavigationStack {
             ScrollView(.vertical, showsIndicators: false) {
                 VStack {
-                   
+                   Header()
                     Hero()
                         .padding()
                         .background(Color.primaryColor1)
@@ -97,6 +97,9 @@ struct Onboarding: View {
                 if UserDefaults.standard.bool(forKey: kIsLoggedIn) {
                     isLoggedIn = true
                 }
+            }
+            .navigationDestination(isPresented: $isLoggedIn) {
+                Home()
             }
         }
         .navigationBarBackButtonHidden()
