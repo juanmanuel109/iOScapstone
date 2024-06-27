@@ -12,7 +12,7 @@ struct MainScreen: View {
         NavigationStack{
             VStack{
                 Header()
-//                Menu()
+                Menu()
             }
         }
     }
