@@ -6,7 +6,7 @@ Este proyecto fue desarrollado como parte del curso de Meta de iOS Capstone. Con
 
 ## 🛠️ Tecnologías Utilizadas
 
-- [![Xcode](https://img.shields.io/badge/Xcode-blue?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/xcode/)
+- [![Xcode](https://img.shields.io/badge/Xcode-blue?style=flat-square&logo=xcode)](https://developer.apple.com/xcode/)
 - [![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 - [![SwiftUI](https://img.shields.io/badge/SwiftUI-red?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swiftui/)
 - [![Core Data](https://img.shields.io/badge/Core_Data-green?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/cocoa-framework/coredata/)
