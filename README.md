@@ -6,6 +6,14 @@ Este proyecto fue desarrollado como parte del curso de Meta de iOS Capstone. Con
 
 ## 🛠️ Tecnologías Utilizadas
 
+<style>
+  .xcode-badge {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+</style>
+
 - [![Xcode](https://img.shields.io/badge/Xcode-blue?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/xcode/)
 - [![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 - [![SwiftUI](https://img.shields.io/badge/SwiftUI-red?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swiftui/)
