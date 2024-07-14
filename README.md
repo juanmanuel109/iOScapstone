@@ -31,4 +31,9 @@ Para ejecutar la aplicación localmente en tu entorno de desarrollo:
 ¡Explora el código y disfruta construyendo tu propia versión del proyecto!
 
 
+## 📱📱
+<img width="215" alt="cap1" src="https://github.com/user-attachments/assets/e5c93fc3-50bd-407a-9d62-80c9a3d7a431">
+<img width="215" alt="cap2" src="https://github.com/user-attachments/assets/dc0adddc-c962-46a7-bd5a-e806fe9473b0">
+<img width="215" alt="cap3" src="https://github.com/user-attachments/assets/704cb9d6-345e-4229-aa39-98fab82273ba">
+<img width="215" alt="cap4" src="https://github.com/user-attachments/assets/230b6dac-8f0d-43cb-ba1b-932f646a9d19">
 
